@@ -28,7 +28,7 @@ The system is developed using **PHP**, **MySQL**, and **XAMPP**, and version con
 | Server | Apache (via XAMPP) |
 | Version Control | Git & GitHub |
 
----
+--- ad
 
 ## 🧠 Installation and Setup Guide
 
@@ -48,7 +48,7 @@ Open **Command Prompt** or **Git Bash** and run:
 git clone https://github.com/<your-username>/<repository-name>.git
 ```
 
----
+--- 
 
 ### 3. Move the Project to XAMPP Folder
 After cloning, move the project folder to your XAMPP’s `htdocs` directory:
